@@ -12,6 +12,7 @@ Repo này lưu lại các **kết luận ngắn cuối mỗi ngày học** để
 | 02 | TCP Handshake & Nmap SYN Scan | [Open](networking/day-02-tcp-nmap-syn-scan.md) |
 | 03 | TCP vs UDP | [Open](networking/day-03-tcp-vs-udp.md) |
 | 04 | Port → Protocol → Service → Process | [Open](networking/day-04-port-protocol-service-process.md) |
+| 05 | DNS: Domain → IP | [Open](networking/day-05-dns-domain-to-ip.md) |
 
 ## 🧭 Learning path
 
